@@ -2,6 +2,8 @@
 ## Landsat Reflectance Data: On the Fly and at Your Fingertips
 ### Challenge
 Develop a web-based application that supports the comparison of ground-based observations with Landsat data by allowing users to define a target location, receive notifications when Landsat is to pass over that location, and then access and display the corresponding Landsat SR data.
+
+This project also includes email notifications on the arrival times of teh satelites over specified areas, and alerts when the data is ready to view.
 ![image](https://github.com/user-attachments/assets/b979a6ef-5f97-4eca-a370-78d52f991864)
 
 ## Tech Stack
